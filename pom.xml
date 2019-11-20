@@ -11,7 +11,7 @@
     <url></url>
 
     <properties>
-        <org.springframework.version>4.3.13.RELEASE</org.springframework.version>
+        <org.springframework.version>5.2.1.RELEASE</org.springframework.version>
         <org.springsecurity.version>4.2.7.RELEASE</org.springsecurity.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
